@@ -1,0 +1,74 @@
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/GridLayout1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:columnCount="4"
+    android:rowCount="3"
+    android:orientation="horizontal">
+
+    <Button
+        android:layout_gravity="start|top"
+        android:text="A"
+        android:layout_width="70dp"
+        android:layout_height="70dp"/>
+    <Button
+        android:layout_gravity="start|top"
+        android:text="B"
+        android:layout_width="70dp"
+        android:layout_height="70dp"/>
+    <Button
+        android:layout_gravity="start|top"
+        android:text="C"
+        android:layout_width="70dp"
+        android:layout_height="70dp"/>
+
+    <Button
+        android:layout_gravity="left|top"
+        android:text="D"
+        android:layout_width="70dp"
+        android:layout_height="70dp"/>
+
+    <Button
+        android:layout_gravity="left|top"
+        android:text="E"
+        android:layout_width="70dp"
+        android:layout_height="70dp"/>
+    <Button
+        android:layout_gravity="start|top"
+        android:text="F"
+        android:layout_width="70dp"
+        android:layout_height="70dp"/>
+
+    <Button
+        android:layout_gravity="start|top"
+        android:text="G"
+        android:layout_width="70dp"
+        android:layout_height="70dp"/>
+    <Button
+        android:layout_gravity="start|top"
+        android:text="H"
+        android:layout_width="70dp"
+        android:layout_height="70dp"/>
+    <Button
+        android:layout_gravity="start|top"
+        android:text="I"
+        android:layout_width="70dp"
+        android:layout_height="70dp"/>
+
+    <Button
+        android:layout_gravity="start|top"
+        android:text="J"
+        android:layout_width="70dp"
+        android:layout_height="70dp"/>
+    <Button
+        android:layout_gravity="start|top"
+        android:text="K"
+        android:layout_width="70dp"
+        android:layout_height="70dp"/>
+    <Button
+        android:layout_gravity="start|top"
+        android:text="L"
+        android:layout_width="70dp"
+        android:layout_height="70dp"/>
+</GridLayout>
